@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ![JavaScript]("https://img.shields.io/badge/J-F7DF1E?style=flat-square&logo=JavaScript&logoColor="white")<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
