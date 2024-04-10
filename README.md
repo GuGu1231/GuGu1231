@@ -1,8 +1,5 @@
 ![JavaScript]("https://img.shields.io/badge/J-F7DF1E?style=flat-square&logo=JavaScript&logoColor="white")<br/>
-<div>
-  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-</div>
 
 <!--
 **GuGu1231/GuGu1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
