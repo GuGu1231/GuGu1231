@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=GuGu%20Github!&fontSize=90&fontColor=E0FFFF)<br>
-# My blog
-<https://velog.io/@gugu1231><br><br>
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGu1231&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=GuGu1231&show_icons=true"><br><br>
